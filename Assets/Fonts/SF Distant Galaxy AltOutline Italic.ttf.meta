@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 68489f62879a20046bc065f8a44f8773
+timeCreated: 1527994556
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Distant Galaxy AltOutline
+  fontNames:
+  - SF Distant Galaxy AltOutline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

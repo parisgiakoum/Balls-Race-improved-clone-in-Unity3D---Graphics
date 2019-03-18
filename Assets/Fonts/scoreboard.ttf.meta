@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b401a096ed292b14084cfb933cabb825
+timeCreated: 1527990293
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Score Board
+  fontNames:
+  - Score Board
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
